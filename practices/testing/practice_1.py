@@ -1,6 +1,5 @@
-# Ejercicio: testing
-# Fecha: 2026-01-21
+'''Practice: testing'''
 
-result = []
-for i in range(10):
-    result.append(i)
+class Solution:
+    def practice_1(self):
+        return True
